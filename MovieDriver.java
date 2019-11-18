@@ -37,7 +37,7 @@ public class MovieDriver
            System.out.println(highestRated.get(i));
        
        
-
+       System.out.println(getByPublisher("Disney"));
         
     }
     
